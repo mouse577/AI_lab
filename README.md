@@ -1,2 +1,1 @@
-# AI_lab
-lab 5
+# AI_LAB5 - Histopathologic Cancer Detection
